@@ -9,7 +9,7 @@ comments: true
   <div class="col-md-4">
     <div class="sticky-top sticky-top-80">
       <h5>Order Kimchi</h5>
-      <a target="_blank" href="tel:82-010-2284-2226" class="btn btn-info">Call 82-010-2284-2226</a>
+      <a target="_blank" href="tel:82-010-4355-4864" class="btn btn-info">Call 82-010-4355-4864</a>
       <a target="_blank" href="" class="btn btn-warning">Kakao (24/7)</a>
       <br/><br/>
       <a href="./">Back to Kimchi</a>
