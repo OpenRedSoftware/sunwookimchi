@@ -1,7 +1,7 @@
 # Site
 name: "Sunwoo Kimchi"
 title: "Sunwoo Kimchi"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "Gyeongsangbukdo Style Sunwoo Kimchi"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
@@ -46,10 +46,6 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
-paginate: 6
-paginate_path: /page:num/
     
 # Other
 markdown: kramdown
