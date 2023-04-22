@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Inception Movie"
+title:  "Duck Foot Kimchi"
 author: john
+price: 2,500 ₩/kg
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg
@@ -11,7 +12,7 @@ hidden: true
 rating: 4.5
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
+It's made out of real ducks!
 
 #### How to use?
 
