@@ -10,7 +10,7 @@ comments: true
 
 <p>This website is just for looking at the kimchi we make. Please call or message us on Kakao to order!</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+<p class="mb-5"><img class="shadow-lg" src="./assets/images/orderkimchi.jpg" alt="jekyll template mediumish" /></p>
 
 </div>
 
@@ -19,7 +19,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Order Kimchi</h5>
 
-<a target="_blank" href="tel:82-010-2284-2226" class="btn btn-info">Call 82-010-2284-2226</a> <a target="_blank" href="" class="btn btn-warning">Kakao (24/7) </a>
+<a target="_blank" href="tel:82-010-2284-2226" class="btn btn-info">Call 82-010-2284-2226</a> <a target="_blank" href="" class="btn btn-warning">Kakao (24/7)</a>
 
 </div>
 </div>
